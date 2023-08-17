@@ -3,9 +3,9 @@ SCQPTH is a differentiable first-order splitting method for convex quadratic pro
 
 For more information please see our publication:
 
-[arXiv (preprint)](https://github.com/ipo-lab/scqpth)
+[arXiv (preprint)](https://arxiv.org/abs/2308.08232)
 
 For experimental results please see [scqpth_bench](https://github.com/ipo-lab/scqpth_bench)
 
 ## Core Dependencies:
-To use the ADMM solver you will need to install [numpy](https://numpy.org) and [Pytorch](https://pytorch.org). 
+To use the ADMM solver you will need to install [numpy](https://numpy.org) and [Pytorch](https://pytorch.org).
